@@ -1,4 +1,4 @@
 # plane-classification
 Airplane detection :
 
-It use the models in order to predict the classes of the plane we use Python and streamlit.
+The objective of this application is to predict the family (or the manufacturer) of the aircrafts using neural networks, a model based on machine vector support and a last model based on transfer learning.  
